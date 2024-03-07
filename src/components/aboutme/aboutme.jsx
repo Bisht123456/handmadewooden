@@ -60,14 +60,14 @@ const Aboutme = () => {
             />
           </Col>
         </Row>
+        <Row>
+          <Col lg={12}>
+            <div className="letsgo">
+              <h1> Lets work together </h1>
+            </div>
+          </Col>
+        </Row>
       </div>
-      <Row>
-        <Col lg={12}>
-          <div className="letsgo">
-            <h1> Lets work together </h1>
-          </div>
-        </Col>
-      </Row>
     </>
   );
 };
