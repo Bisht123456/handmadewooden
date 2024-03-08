@@ -74,7 +74,7 @@ const Home = () => {
                   </p>
                 </div>
               </div>
-            </Col>
+            </Col>    
           </Row>
           <Row style={{ marginTop: "90px", marginBottom: "190px" }}>
             <Col lg={6}>
